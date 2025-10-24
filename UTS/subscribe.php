@@ -17,7 +17,7 @@
 
             echo "<h2>Berhasil Subscribe!</h2>";
             echo "<p>Terima Kasih, <strong>$name</strong>, sudah Subscribe.</p>";
-            echo "<p>Email kami <strong>$email</strong> telah tersimpan.</p>";
+            echo "<p>Email kamu <strong>$email</strong> telah tersimpan.</p>";
             echo "<a href='check_subscribe.php?subscribe=berhasil!'>Lihat Status Subscribe</a>";
         }
         ?>
